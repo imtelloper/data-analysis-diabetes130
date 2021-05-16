@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="bot.stBinBot.lib" />
+          <option value="bot.stBinBot.maruLi" />
+          <option value="bot.stBinBot.*" />
+          <option value="color_histogram_feature_extraction" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
