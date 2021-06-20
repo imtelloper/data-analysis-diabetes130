@@ -1,4 +1,5 @@
 import pandas as pd
+
 class pandasModule:
     # 전체 걸럼의 unique값과 갯수를 찍어보자
     def showUniqueInfos(df):
